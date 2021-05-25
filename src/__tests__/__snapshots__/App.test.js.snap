@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot of initial Loading Component 1`] = `
+<DocumentFragment>
+  <div
+    style="width: 100vw; height: 100vh; position: absolute; background: rgba(10, 12, 10, 0.9); z-index: 10;"
+  >
+    <span
+      class="css-1rc3du5"
+    />
+  </div>
+</DocumentFragment>
+`;
